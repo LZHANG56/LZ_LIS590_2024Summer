@@ -16,11 +16,11 @@ This Directed Fieldwork was structured around several key learning outcomes:
 
 Below are links to the artifacts developed during my fieldwork. These documents and resources illustrate the tasks undertaken and the skills acquired:
 
-- [Learning Outcomes Agreement](Learning_Outcomes_Agreement.md)
-- [Metadata Schema Documentation](Metadata_Schema_Documentation.md)
-- [Digital Preservation Report](Digital_Preservation_Report.md)
-- [Community Engagement Summary](Community_Engagement_Summary.md)
-- [Metadata Schema Example](Metadata_Schema_Example.md)
+- [Learning Outcomes Agreement](Learning Outcomes Agreement.md)
+- [Metadata Schema Documentation](Metadata SchemaDocumentation.md)
+- [Digital Preservation Report](Digital Preservation Report.md)
+- [Community Engagement Summary](Community Engagement Summary.md)
+- [Metadata Schema Example](Metadata Schema Example.md)
 - [Weekly Reflections and Blog Posts]
   - [Week 1](wk1.md)
   - [Week 2](wk2.md)
