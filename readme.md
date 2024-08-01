@@ -16,11 +16,19 @@ This Directed Fieldwork was structured around several key learning outcomes:
 
 Below are links to the artifacts developed during my fieldwork. These documents and resources illustrate the tasks undertaken and the skills acquired:
 
-- [Learning Outcomes Agreement](link-to-document)
-- [Metadata Schema Documentation](link-to-document)
-- [Digital Preservation Report](link-to-document)
-- [Community Engagement Summary](link-to-document)
-- [Weekly Reflections and Blog Posts](link-to-blog)
+- [Learning Outcomes Agreement](Learning_Outcomes_Agreement.md)
+- [Metadata Schema Documentation](Metadata_Schema_Documentation.md)
+- [Digital Preservation Report](Digital_Preservation_Report.md)
+- [Community Engagement Summary](Community_Engagement_Summary.md)
+- [Metadata Schema Example](Metadata_Schema_Example.md)
+- [Weekly Reflections and Blog Posts]
+  - [Week 1](wk1.md)
+  - [Week 2](wk2.md)
+  - [Week 3](wk3.md)
+  - [Week 4](wk4.md)
+  - [Week 5](wk5.md)
+  - [Week 6](wk6.md)
+  - [Week 7](wk7.md)
 
 ## Installation/Usage
 
@@ -28,7 +36,7 @@ To view the digital artifacts, simply click on the links provided above. For int
 
 ## Contributing
 
-Feedback and insights on the projects and documentation provided are greatly appreciated. If you are interested in collaborating or have suggestions for improving the collections, please reach out to me via [GitHub issues](link-to-issues) or [email](mailto:your-email).
+Feedback and insights on the projects and documentation provided are greatly appreciated. If you are interested in collaborating or have suggestions for improving the collections, please reach out to me via [GitHub issues](link-to-issues) or [email](mailto:lzhang56@uw.edu).
 
 ## License
 
@@ -38,4 +46,5 @@ This work is shared under the [MIT License](link-to-license). This license allow
 
 For any inquiries or further information, feel free to contact me:
 
-- **Email:** [lzhang56@uw.edu]
+- **Email:** [lzhang56@uw.edu](mailto:lzhang56@uw.edu)
+
