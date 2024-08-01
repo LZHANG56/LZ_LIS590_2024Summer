@@ -19,4 +19,23 @@
 ## Key Learnings
 - **Collection Development:** Gained deeper insights into the importance of maintaining specificity and uniqueness in new collections to avoid redundancy.
 - **Overlap Analysis:** Developed skills in analyzing existing collections to ensure new additions do not overlap, enhancing the library's overall comprehensiveness and relevance.
-- **Metadata Accuracy:** Con
+- **Metadata Accuracy:** Continued to refine the process of entering accurate and detailed metadata for all new titles.
+
+## Challenges
+- **Ensuring Non-overlap:** Ensuring that new collections did not overlap with existing ones required careful and thorough analysis.
+- **Maintaining Metadata Quality:** Maintaining high standards of metadata accuracy and consistency across all entries was time-consuming but essential.
+
+## Next Steps
+- **Expand the Collections:** Continue to add more relevant titles to the DTL OA Chinese Literature Studies and DTL OA Korean Literature Studies collections.
+- **Engage with Scholars:** Seek feedback from scholars to further refine and enhance the collections.
+- **Promote the Collections:** Plan and execute outreach activities to promote the new collections to the academic community.
+
+## Examples
+- **Adding More Titles:**
+  - **Title Addition Process:** Added several new titles to the DTL OA Chinese Literature Studies collection, such as dissertations on the influence of Confucianism in Chinese literature and comprehensive studies on modern Chinese poetry. Each entry included detailed metadata verified against sources like the China National Knowledge Infrastructure (CNKI).
+  - **Detailed Metadata Entry:** For example, one entry included a thesis on the historical development of Chinese religious literature, with metadata fields such as Title, Author(s), Publication Date, and URLs meticulously filled out.
+
+- **Overlap Check and Specificity Verification:**
+  - **Exploring Existing Collections:** Explored other DTL collections to identify any potential overlaps. For instance, I reviewed the existing Chinese and Korean studies collections to ensure that the new titles added were unique and did not duplicate existing resources.
+  - **Ensuring Specificity:** Confirmed that the new collections focused on niche areas such as the impact of religion on Chinese literature and modern Korean literary movements, ensuring they were highly specific and valuable to scholars.
+
