@@ -1,8 +1,9 @@
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
+html, body {
+    height: 100%;
     margin: 0;
     padding: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
     background-color: #f4f4f4;
     color: #333;
 }
@@ -17,6 +18,7 @@ header {
 header nav ul {
     list-style: none;
     padding: 0;
+    margin: 0;
 }
 
 header nav ul li {
@@ -35,7 +37,8 @@ header nav ul li a:hover {
 
 main {
     padding: 1rem;
-    min-height: 80vh; /* Ensure main content takes up at least 80% of the viewport height */
+    min-height: calc(100vh - 140px); /* Adjust based on header and footer height */
+    box-sizing: border-box;
 }
 
 section {
@@ -54,5 +57,3 @@ footer {
     background: #333;
     color: #fff;
 }
-
-
