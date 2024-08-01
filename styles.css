@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    color: #333;
 }
 
 header {
@@ -28,12 +29,22 @@ header nav ul li a {
     text-decoration: none;
 }
 
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
 main {
     padding: 1rem;
 }
 
 section {
     margin-bottom: 2rem;
+}
+
+section#introduction {
+    background: #e4e4e4;
+    padding: 1rem;
+    border-radius: 8px;
 }
 
 footer {
@@ -45,3 +56,4 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
