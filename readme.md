@@ -29,7 +29,10 @@ Below are links to the artifacts developed during my fieldwork. These documents 
   - [Week 5](wk5.md)
   - [Week 6](wk6.md)
   - [Week 7](wk7.md)
-
+  - [Week 8](wk8.md)
+  - [Week 9](wk9.md)
+  - [Week 10](wk10.md)
+    
 ## Installation/Usage
 
 To view the digital artifacts, simply click on the links provided above. For interactive elements or specific digital tools used during the project, please refer to the individual documentation provided in each section.
